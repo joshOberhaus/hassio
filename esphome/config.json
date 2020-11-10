@@ -13,7 +13,7 @@
   "hassio_role": "default",
   "homeassistant_api": false,
   "host_network": true,
-  "image": "esphome/esphome-hassio-{arch}",
+  "image": "esphome/esphome-hassio-armv7",
   "ingress": true,
   "ingress_port": 0,
   "map": [
