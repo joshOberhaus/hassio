@@ -43,6 +43,6 @@
   "stage": "stable",
   "startup": "application",
   "url": "https://esphome.io/",
-  "version": "latest",
+  "version": "1.15.3",
   "webui": "http://[HOST]:[PORT:6052]"
 }
